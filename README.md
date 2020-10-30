@@ -1,5 +1,5 @@
- ### Hi there 👋
- <img src="https://media.giphy.com/media/0m7kKMCIv3Qj50akRO/giphy.gif" width="750" height="450" />
+
+ <img src="https://media.giphy.com/media/IkC48u5QaYoXv55Otj/giphy.gif" width="700" height="400" />
  
 👉 MY [LINKEDIN](https://www.linkedin.com/in/karina-segruma/)</br>
 👉 MY [ROCK PAPER SCISSORS LIZARD SPOCK](https://github.com/krnsgrm/rock-paper-scissors-lizard-spock) GAME
