@@ -1,8 +1,12 @@
 
  <img src="https://media.giphy.com/media/IkC48u5QaYoXv55Otj/giphy.gif" width="700" height="400" />
  
-👉 MY [LINKEDIN](https://www.linkedin.com/in/karina-segruma/)</br>
-👉 MY [ROCK PAPER SCISSORS LIZARD SPOCK](https://github.com/krnsgrm/rock-paper-scissors-lizard-spock) GAME
+👉 **Feel free to contact me on my [LINKEDIN](https://www.linkedin.com/in/karina-segruma/) profile**</br>
+<br>
+**Here are 3 repositories you can check out:** <br>
+👉 My [ROCK PAPER SCISSORS LIZARD SPOCK](https://github.com/krnsgrm/rock-paper-scissors-lizard-spock) game <br>
+👉 My [WEB AND APIS](https://github.com/krnsgrm/web-and-apis) repository <br>
+👉 My wannabe ['BLOG'](https://github.com/krnsgrm/codelex-blog)
 
 <!--
 **krnsgrm/krnsgrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
